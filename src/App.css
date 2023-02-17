@@ -1,5 +1,6 @@
+html,
 #root {
-  background-color: #464a4e;
+  background: #464a4e;
 }
 .card-body label {
   font-size: 14px;
